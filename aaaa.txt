@@ -1,0 +1,30 @@
+user 
+
+Email: oleg@test.com
+Password: 123456
+
+email: abi@gmail.com
+Password: 123
+
+email: Dinesh2gmail.com
+Password: 123
+
+email: sundar@gmail.com
+password: 123 
+
+
+//////////////////////////////////////////////////////
+company
+
+Email: lobortis@a.ca
+Password: 123456
+
+Email: abc@gmail.com
+password: 123
+
+
+////////////////////////////////////////////////////////
+admin
+
+Username: admin
+Password: 123456
